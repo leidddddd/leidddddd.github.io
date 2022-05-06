@@ -20,6 +20,9 @@ pubnative.net, 1007170, RESELLER, d641df8625486a7b
 verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
 
+# Meta
+facebook.com,1143653859826842, DIRECT, c3e20eee3f780d68
+
 #facebook
 facebook.com, 391747685650430, DIRECT, c3e20eee3f780d68
 facebook.com, 177882666168661, DIRECT, c3e20eee3f780d68
