@@ -1,14 +1,5 @@
 #admob
-google.com, pub-8543989721616387, DIRECT, f08c47fec0942fa0
-google.com, pub-6084070046619292, DIRECT, f08c47fec0942fa0
-google.com, pub-8590985917252251, DIRECT, f08c47fec0942fa0
-google.com, pub-4540814763562680, DIRECT, f08c47fec0942fa0
-google.com, pub-8209341958650892, DIRECT, f08c47fec0942fa0
-google.com, pub-3157349852071725, DIRECT, f08c47fec0942fa0
-google.com, pub-3236092515912969, DIRECT, f08c47fec0942fa0
 google.com, pub-1640543079591033, DIRECT, f08c47fec0942fa0
-google.com, pub-8761527869711027, DIRECT, f08c47fec0942fa0
-google.com, pub-6222442155385587, DIRECT, f08c47fec0942fa0
 
 #applovin
 applovin.com, f02a4d88a0cb97b15f763c1dcf9512b2, DIRECT
